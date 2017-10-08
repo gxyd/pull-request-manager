@@ -1,0 +1,34 @@
+# SymPy Pull Request Manager (below referred simply as Manager)
+
+Pay rate: $10/hour
+
+Responsibilities:
+
+* The primary responsibility of the Manager is to ensure that SymPy Pull
+  Requests (PRs) get reviewed quickly and get either merged or rejected in a
+  timely manner.
+
+* When somebody submits a PR, the Manager will try find an
+  appropriate reviewer and ask him to review the PR. The Manager will stay on
+  top, and if the reviewer can't review in a timely fashion, the Manager will
+  find another reviewer or review the PR himself.
+
+* If PR authors need help with technical issues such as rebasing or making sure
+  the tests pass, the Manager should try to help, or find somebody who can help.
+
+* The Manager will also go over stalled (old) PRs, and see what needs to be
+  done to finish them, and either ask the author to finish it, find a reviewer,
+  or close the PR (by creating an issue with a link to the closed PR and a list
+  of things that need to be done in order to finish it).
+
+* Additional responsibilities might include helping with the SymPy release
+  process (improving automation or even making the release)
+
+* Expected to work around 5h/week, preferably work at least 30 min each day, or
+  1h every other day if possible.
+
+* Report hours each week, together with a brief description what was done.
+
+* Report to Ondřej Čertík
+
+* Either side can decide for any reason at any time to quit the arrangement

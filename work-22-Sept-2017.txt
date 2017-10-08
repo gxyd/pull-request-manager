@@ -1,0 +1,17 @@
+Work done
+=========
+
+* Reviewed and merged PR's [#13299](https://github.com/sympy/sympy/pull/13299) , [#13301](https://github.com/sympy/sympy/pull/13301). I did review them myself since they were of topics on which I myself have written code for in the past.
+
+* Tagged PR's for which I could understand the topic and possible SymPy/author action (SymPy's turn, Author's turn), also pinged possible-interested reviewers on a few of the PR's.
+
+Questions/Queries
+=================
+
+* First of all the important thing being, am I in alignment with what is expected of me? I don't expect it to be pretty clear to you, but looking at just today's work.
+
+
+Time spent
+==========
+
+1 hour 45 minutes

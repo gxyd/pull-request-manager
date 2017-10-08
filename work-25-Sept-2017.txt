@@ -1,0 +1,16 @@
+Work Done
+=========
+
+* Merged pull requests [#13145](https://github.com/sympy/sympy/pull/13145), [#12517](https://github.com/sympy/sympy/pull/12517).
+
+* Commented on PR [#13342](https://github.com/sympy/sympy/pull/13342), [#12703](https://github.com/sympy/sympy/pull/12703) (and related PR's of SymEngine backend) for reviewers, #12504, #12493 for author attention.
+
+* Reviewed PR [#12575](https://github.com/sympy/sympy/pull/12575) (stagnant for sometime), [#12460](https://github.com/sympy/sympy/pull/12460).
+
+* Closed '-1' PR [#12442](https://github.com/sympy/sympy/pull/12442).
+
+
+Time spent
+==========
+
+1 hour 15 minutes
