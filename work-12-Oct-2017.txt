@@ -1,0 +1,12 @@
+Work done
+=========
+
+* Merged PR #13419.
+* Opened issue #13436 to complete PR #12288.
+* Completed PR #13437, #12588.
+* Closed PR #12435, #12151 (author inactivity).
+
+Time spent
+==========
+
+1 hour 30 minutes

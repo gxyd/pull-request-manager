@@ -1,0 +1,11 @@
+Work done
+=========
+
+* Merged PR #12299.
+* In progress working on PR #13424.
+* Minor review on #12370.
+
+Time spent
+==========
+
+1 hour

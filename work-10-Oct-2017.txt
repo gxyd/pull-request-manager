@@ -1,0 +1,11 @@
+Work done
+=========
+
+* Closed PR #12504, since issue fixed by other PR.
+* Reviewed PR #13419, #12352, #11924, #12370, #12588.
+* Pinged author's on PR #12288, #12435, #12607.
+
+Time spent
+==========
+
+2 hours
