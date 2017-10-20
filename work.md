@@ -4,34 +4,62 @@ PR's on which I have pinged people
 Mentor pinges (not responded)
 -----------------------------
 
+1. https://github.com/sympy/sympy/pull/11774
+(19 Oct. 2017)
+
+2. https://github.com/sympy/sympy/pull/13052
+(20 Oct. 2017)
+
 Waiting for Author
 -----------------------------
 
-* https://github.com/sympy/sympy/pull/12000
-(30 Sept. 2017)
-* https://github.com/sympy/sympy/pull/11924
+1. https://github.com/sympy/sympy/pull/11924
 (10 Oct. 2017)
-* https://github.com/sympy/sympy/pull/12848
-(30 Sept. 2017)
-* https://github.com/sympy/sympy/pull/12098
+
+2. https://github.com/sympy/sympy/pull/12098
 (1 Oct. 2017)
-* https://github.com/sympy/sympy/pull/12049
-(1 Oct. 2017) (seen 10
-* https://github.com/sympy/sympy/pull/12288
-(10 Oct. 2017) (Complete the PR and merge it tomorrow if the author doesn't respond)
 
-// Taken care of
-* https://github.com/sympy/sympy/pull/9198
-(8 Oct. 2017)
+3. https://github.com/sympy/sympy/pull/12049
+(1 Oct. 2017)
 
-* https://github.com/sympy/sympy/pull/12259
+4. https://github.com/sympy/sympy/pull/12259
 (11 Oct. 2017)
-* https://github.com/sympy/sympy/pull/12149
+
+5. https://github.com/sympy/sympy/pull/12149
 (8 Oct. 2017)
-* https://github.com/sympy/sympy/pull/12152
-(8 Oct. 2017)
-* https://github.com/sympy/sympy/pull/11765
-(8 Oct. 2017)
+
+6. https://github.com/sympy/sympy/pull/12164
+(14 Oct. 2017)
+
+7. https://github.com/sympy/sympy/pull/12349
+(17 Oct. 2017)
+
+8. https://github.com/sympy/sympy/pull/12611
+(19 Oct. 2017)
+
+9. https://github.com/sympy/sympy/pull/10937
+(19 Oct. 2017)
+
+10. https://github.com/sympy/sympy/pull/11069 (I can do this)
+(19 Oct. 2017)
+
+11. https://github.com/sympy/sympy/pull/11983
+(19 Oct. 2017)
+
+12. https://github.com/sympy/sympy/pull/11719
+(19 Oct. 2017)
+
+13. https://github.com/sympy/sympy/pull/12208 (I addressed that changes need to be made)
+(19 Oct. 2017)
+
+14. https://github.com/sympy/sympy/pull/11962
+(19 Oct. 2017)
+
+15. https://github.com/sympy/sympy/pull/11996
+(19 Oct. 2017)
+
+16. https://github.com/sympy/sympy/pull/12436
+(20 Oct. 2017)
 
 
 Author work expected after mentor's
@@ -41,23 +69,59 @@ Author work expected after mentor's
 Current work in progress
 ------------------------
 
-* https://github.com/sympy/sympy/pull/12460
+1. https://github.com/sympy/sympy/pull/12493
+(Talk to @szymag)
+
+2. https://github.com/sympy/sympy/pull/12460
 (started work on 4 Oct. 2017)
+
+3. https://github.com/sympy/sympy/pull/12214
+(16 Oct. 2017)
+
 
 Tomorrow
 --------
 
-* https://github.com/sympy/sympy/pull/12272
-* https://github.com/sympy/sympy/pull/12308
-* https://github.com/sympy/sympy/pull/12505
+1. https://github.com/sympy/sympy/pull/12272
+
+2. https://github.com/sympy/sympy/pull/12308
+
+3. https://github.com/sympy/sympy/pull/12505
+
+4. https://github.com/sympy/sympy/pull/11694
+(13 Oct. 2017) (What should I do with this?)
+
+5. https://github.com/sympy/sympy/pull/11686
+(13. Oct. 2017) (Do what?)
+
+6. https://github.com/sympy/sympy/pull/11625
+(13. Oct. 2017) (Can do.)
 
 
 TODO
 ----
 
-* https://github.com/sympy/sympy/pull/12741
-* https://github.com/sympy/sympy/pull/12477
-* https://github.com/sympy/sympy/pull/12127
-* https://github.com/sympy/sympy/pull/12607
+1. https://github.com/sympy/sympy/pull/12741
 
-#xxx https://github.com/sympy/sympy/pull/12127
+2. https://github.com/sympy/sympy/pull/12477
+
+3. https://github.com/sympy/sympy/pull/12127
+
+4. https://github.com/sympy/sympy/pull/12607
+
+5. https://github.com/sympy/sympy/pull/12189 (Aaron, Ondrej's attention)
+
+6. https://github.com/sympy/sympy/pull/11797
+
+7. https://github.com/sympy/sympy/pull/12116
+(20 Oct. 2017)
+
+
+Agreed to do, but wait
+----------------------
+
+1. https://github.com/sympy/sympy/pull/11765
+(17 Oct. 2017)
+
+2. https://github.com/sympy/sympy/pull/12212
+(13 Oct. 2017)

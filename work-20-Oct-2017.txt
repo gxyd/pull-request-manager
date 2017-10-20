@@ -1,0 +1,13 @@
+Work done
+=========
+
+* Completed and merged PR #12000.
+* Closed inactive PR #12610.
+* Closed unnecessary PR #13052, #11575.
+* Opened PR #13495 to complete PR #9424.
+* Commented/addressed PR #11931, #12436, #12477.
+
+Time spent
+===========
+
+1 hour 15 minutes
