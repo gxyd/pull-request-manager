@@ -1,0 +1,13 @@
+Work done
+=========
+
+* Merged (and completed) #13463, #13495.
+* Reviewed PR #13461, #13496, #13489, #2764, #12477.
+* Sent PR #13510.
+* Closed inactive PR's #11983, #11069, #12611, #11625, #12349.
+* Closed already fixed issue #10035.
+
+Time spent
+==========
+
+2 hours 30 minutes

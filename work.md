@@ -1,6 +1,13 @@
 PR's on which I have pinged people
 ==================================
 
+Needs review
+============
+
+1. https://github.com/sympy/sympy/pull/12098
+(21 Oct. 2017)
+
+
 Mentor pinges (not responded)
 -----------------------------
 
@@ -16,35 +23,11 @@ Waiting for Author
 1. https://github.com/sympy/sympy/pull/11924
 (10 Oct. 2017)
 
-2. https://github.com/sympy/sympy/pull/12098
-(1 Oct. 2017)
-
-3. https://github.com/sympy/sympy/pull/12049
-(1 Oct. 2017)
+2. https://github.com/sympy/sympy/pull/13488
+(22 Oct. 2017)
 
 4. https://github.com/sympy/sympy/pull/12259
 (11 Oct. 2017)
-
-5. https://github.com/sympy/sympy/pull/12149
-(8 Oct. 2017)
-
-6. https://github.com/sympy/sympy/pull/12164
-(14 Oct. 2017)
-
-7. https://github.com/sympy/sympy/pull/12349
-(17 Oct. 2017)
-
-8. https://github.com/sympy/sympy/pull/12611
-(19 Oct. 2017)
-
-9. https://github.com/sympy/sympy/pull/10937
-(19 Oct. 2017)
-
-10. https://github.com/sympy/sympy/pull/11069 (I can do this)
-(19 Oct. 2017)
-
-11. https://github.com/sympy/sympy/pull/11983
-(19 Oct. 2017)
 
 12. https://github.com/sympy/sympy/pull/11719
 (19 Oct. 2017)
@@ -88,9 +71,6 @@ Tomorrow
 
 3. https://github.com/sympy/sympy/pull/12505
 
-4. https://github.com/sympy/sympy/pull/11694
-(13 Oct. 2017) (What should I do with this?)
-
 5. https://github.com/sympy/sympy/pull/11686
 (13. Oct. 2017) (Do what?)
 
@@ -116,6 +96,9 @@ TODO
 7. https://github.com/sympy/sympy/pull/12116
 (20 Oct. 2017)
 
+8. https://github.com/sympy/sympy/pull/2764
+(21 Oct. 2017)
+
 
 Agreed to do, but wait
 ----------------------
@@ -125,3 +108,9 @@ Agreed to do, but wait
 
 2. https://github.com/sympy/sympy/pull/12212
 (13 Oct. 2017)
+
+3. https://github.com/sympy/sympy/pull/12049
+(1 Oct. 2017)
+
+4. https://github.com/sympy/sympy/pull/10937
+(19 Oct. 2017)
