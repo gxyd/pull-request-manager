@@ -1,0 +1,13 @@
+Work done
+=========
+
+* Submitted PR #13523.
+* Reviewed PR #13522.
+* Closed inactive PR's (and opened issue to complete) #10677, #10693, #10686.
+* Closed unncessary PR #10628.
+* Pinged author's on #10611, #10811.
+
+Time spent
+==========
+
+1 hour

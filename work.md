@@ -44,6 +44,8 @@ Waiting for Author
 16. https://github.com/sympy/sympy/pull/12436
 (20 Oct. 2017)
 
+17. https://github.com/sympy/sympy/pull/10811
+(24 Oct. 2017)
 
 Author work expected after mentor's
 ------------------------------------
